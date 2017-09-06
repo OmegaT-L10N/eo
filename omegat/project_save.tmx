@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="EO" changeid="Kos Ivantsov" changedate="20170906T095302Z" creationid="Kos Ivantsov" creationdate="20170906T095302Z">
+        <seg>&amp;Nuligi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="EO" changeid="Kos Ivantsov" changedate="20170906T095308Z" creationid="Kos Ivantsov" creationdate="20170906T095308Z">
+        <seg>&amp;Fermi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="EO" changeid="Kos Ivantsov" changedate="20170906T095256Z" creationid="Kos Ivantsov" creationdate="20170906T095256Z">
