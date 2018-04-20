@@ -41,9 +41,7 @@
                 <mapping local="source/scripts/replace_strip_tags.properties" repository="scripts/properties/replace_strip_tags.properties"/>
                 <mapping local="source/scripts/strip_bidi_marks.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
                 <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
-            </repository>
-            <repository type="http" url="https://gist.githubusercontent.com/kosivantsov/41b181127587b72c2c4aa0459d3ba68b/">
-                <mapping local="glossary/alphanumlist.txt" repository="raw/8b6a8f8d115ba3c3769c574ff476722ba72e05bf/ukr_alphanum_list.txt"/>
+                <mapping local="source/scripts/tagwipe.properties" repository="scripts/properties/tagwipe.properties"/>                
             </repository>
             <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
                 <mapping local="source/website/" repository="/"/>
