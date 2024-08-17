@@ -55,7 +55,7 @@
                     <excludes>**/howtos/**</excludes>
                 </mapping>
                 <mapping local="source/website/yml/eo.yml" repository="_i18n/en.yml"/>
-            </repository>            
+            </repository>
         </repositories>
     </project>
 </omegat>
